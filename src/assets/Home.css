@@ -1,0 +1,13 @@
+.home-container{
+    display:flex;
+    flex-direction: column;
+    left: calc(50% - 175px);
+    justify-content: center;
+
+}
+
+.home-image{
+    align-self: center;
+    width: 680px;
+    margin:25px
+}
